@@ -1,0 +1,27 @@
+{
+  "name": "react-native-custom-date-picker",
+  "version": "1.0.0",
+  "description": "A custom Date Time, Date Range and Date Picker for android",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code-death/react-native-custom-date-picker.git"
+  },
+  "keywords": [
+    "React Native Date Picker",
+    "React Native Date Time Picker",
+    "React Native Date Range Picker",
+    "Date Picker",
+    "Date Time Picker",
+    "Date Range Picker"
+  ],
+  "author": "poorvansh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/code-death/react-native-custom-date-picker/issues"
+  },
+  "homepage": "https://github.com/code-death/react-native-custom-date-picker#readme"
+}
